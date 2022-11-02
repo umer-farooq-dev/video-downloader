@@ -1,0 +1,1119 @@
+[
+  {
+    "id": 1,
+    "slug": "single-article",
+    "type": "default",
+    "translations": [
+      {
+        "id": 114,
+        "locale": "de",
+        "title": "Einzelner Artikel",
+        "subtitle": "Ein aktueller Artikel von uns"
+      },
+      {
+        "id": 1,
+        "locale": "en",
+        "title": "Single Article",
+        "subtitle": "Stay up to date with the latest news"
+      },
+      {
+        "id": 115,
+        "locale": "es",
+        "title": "Articulo Unico",
+        "subtitle": "Un último artículo de nosotros"
+      },
+      {
+        "id": 116,
+        "locale": "fr",
+        "title": "Article unique",
+        "subtitle": "Un dernier article de nous"
+      },
+      {
+        "id": 117,
+        "locale": "it",
+        "title": "Articolo Singolo",
+        "subtitle": "Un nostro ultimo articolo"
+      },
+      {
+        "id": 118,
+        "locale": "pt",
+        "title": "Artigo Único",
+        "subtitle": "Um último artigo nosso"
+      },
+      {
+        "id": 119,
+        "locale": "ru",
+        "title": "Отдельная статья",
+        "subtitle": "Последняя статья от нас"
+      },
+      {
+        "id": 113,
+        "locale": "vi",
+        "title": "Bài viết",
+        "subtitle": "Một bài viết mới nhất từ chúng tôi"
+      }
+    ]
+},
+{
+  "id": 2,
+  "slug": "vidclear",
+  "type": "home",
+  "translations": [
+    {
+      "id": 102,
+      "locale": "de",
+      "title": "VidClear",
+      "subtitle": "Kostenloser Online Video Downloader"
+    },
+    {
+      "id": 2,
+      "locale": "en",
+      "title": "VidClear",
+      "subtitle": "Free Online Video Downloader"
+    },
+    {
+      "id": 103,
+      "locale": "es",
+      "title": "VidClear",
+      "subtitle": "Descargador de videos en línea gratuito"
+    },
+    {
+      "id": 104,
+      "locale": "fr",
+      "title": "VidClear",
+      "subtitle": "Téléchargeur de vidéos en ligne gratuit"
+    },
+    {
+      "id": 105,
+      "locale": "it",
+      "title": "VidClear",
+      "subtitle": "Downloader di video online gratuito"
+    },
+    {
+      "id": 106,
+      "locale": "pt",
+      "title": "VidClear",
+      "subtitle": "Downloader de vídeo online grátis"
+    },
+    {
+      "id": 107,
+      "locale": "ru",
+      "title": "VidClear",
+      "subtitle": "Бесплатный онлайн-загрузчик видео"
+    },
+    {
+      "id": 17,
+      "locale": "vi",
+      "title": "VidClear",
+      "subtitle": "Trình tải xuống video trực tuyến miễn phí"
+    }
+  ]
+},
+{
+  "id": 3,
+  "slug": "contact",
+  "type": "contact",
+  "translations": [
+    {
+      "id": 96,
+      "locale": "de",
+      "title": "Kontakt",
+      "subtitle": "Nehmen Sie Kontakt mit uns auf"
+    },
+    {
+      "id": 3,
+      "locale": "en",
+      "title": "Contact",
+      "subtitle": "Get in Touch with Us"
+    },
+    {
+      "id": 97,
+      "locale": "es",
+      "title": "Contacto",
+      "subtitle": "Póngase en contacto con nosotros"
+    },
+    {
+      "id": 98,
+      "locale": "fr",
+      "title": "Contacter",
+      "subtitle": "Prenez contact avec nous"
+    },
+    {
+      "id": 99,
+      "locale": "it",
+      "title": "Contatto",
+      "subtitle": "Mettiti in contatto con noi"
+    },
+    {
+      "id": 100,
+      "locale": "pt",
+      "title": "Contato",
+      "subtitle": "Entre em contato conosco"
+    },
+    {
+      "id": 101,
+      "locale": "ru",
+      "title": "Контакт",
+      "subtitle": "Свяжись с нами"
+    },
+    {
+      "id": 95,
+      "locale": "vi",
+      "title": "Liên hệ",
+      "subtitle": "Liên hệ với chúng tôi"
+    }
+  ]
+},
+{
+  "id": 4,
+  "slug": "report",
+  "type": "report",
+  "translations": [
+    {
+      "id": 89,
+      "locale": "de",
+      "title": "Bericht",
+      "subtitle": "Nicht funktionierende Links melden"
+    },
+    {
+      "id": 4,
+      "locale": "en",
+      "title": "Report",
+      "subtitle": "Report Not Working Links"
+    },
+    {
+      "id": 90,
+      "locale": "es",
+      "title": "Informe",
+      "subtitle": "Informar enlaces que no funcionan"
+    },
+    {
+      "id": 91,
+      "locale": "fr",
+      "title": "Signaler",
+      "subtitle": "Rapporter les liens ne fonctionnant pas"
+    },
+    {
+      "id": 92,
+      "locale": "it",
+      "title": "Rapporto",
+      "subtitle": "Segnala link non funzionanti"
+    },
+    {
+      "id": 93,
+      "locale": "pt",
+      "title": "Relatório",
+      "subtitle": "Links de relatório que não funcionam"
+    },
+    {
+      "id": 94,
+      "locale": "ru",
+      "title": "Отчет",
+      "subtitle": "Сообщить о неработающих ссылках"
+    },
+    {
+      "id": 88,
+      "locale": "vi",
+      "title": "Báo cáo",
+      "subtitle": "Báo cáo các liên kết không hoạt động"
+    }
+  ]
+},
+{
+  "id": 5,
+  "slug": "404",
+  "type": "404",
+  "translations": [
+    {
+      "id": 82,
+      "locale": "de",
+      "title": "Fehler 404",
+      "subtitle": "Hoppla. Seite nicht gefunden",
+      "short_description": "Wir empfehlen Ihnen, auf die Homepage zu gehen, während wir dieses Problem lösen.",
+      "description": "Wir empfehlen Ihnen, auf die Homepage zu gehen, w&auml;hrend wir dieses Problem l&ouml;sen."
+    },
+    {
+      "id": 5,
+      "locale": "en",
+      "title": "Error 404",
+      "subtitle": "Erm. Page not found",
+      "short_description": "We suggest you to go to the homepage while we solve this issue.",
+      "description": "We suggest you to go to the homepage while we solve this issue."
+    },
+    {
+      "id": 83,
+      "locale": "es",
+      "title": "Error 404 ",
+      "subtitle": "¡Ups! Página no encontrada",
+      "short_description": "Le sugerimos que vaya a la página de inicio mientras resolvemos este problema.",
+      "description": "Le sugerimos que vaya a la p&aacute;gina de inicio mientras resolvemos este problema."
+    },
+    {
+      "id": 84,
+      "locale": "fr",
+      "title": "Erreur 404",
+      "subtitle": "Oups. Page non trouvée",
+      "short_description": "Nous vous suggérons d'aller à la page d'accueil pendant que nous résolvons ce problème.",
+      "description": "Nous vous sugg&eacute;rons d'aller &agrave; la page d'accueil pendant que nous r&eacute;solvons ce probl&egrave;me."
+    },
+    {
+      "id": 85,
+      "locale": "it",
+      "title": "Errore 404",
+      "subtitle": "Ops. pagina non trovata",
+      "short_description": "Ti consigliamo di andare alla homepage mentre risolviamo questo problema.",
+      "description": "Ti consigliamo di andare alla homepage mentre risolviamo questo problema."
+    },
+    {
+      "id": 86,
+      "locale": "pt",
+      "title": "Erro 404",
+      "subtitle": "Opa. página não encontrada",
+      "short_description": "Sugerimos que você vá até a página inicial enquanto resolvemos esse problema.",
+      "description": "Sugerimos que voc&ecirc; v&aacute; at&eacute; a p&aacute;gina inicial enquanto resolvemos esse problema."
+    },
+    {
+      "id": 87,
+      "locale": "ru",
+      "title": "Ошибка 404",
+      "subtitle": "Ой. Страница не найдена",
+      "short_description": "Мы предлагаем вам перейти на домашнюю страницу, пока мы решаем эту проблему.",
+      "description": ""
+    },
+    {
+      "id": 81,
+      "locale": "vi",
+      "title": "Lỗi 404",
+      "subtitle": "Rất tiếc. Không tìm thấy trang",
+      "short_description": "Chúng tôi khuyên bạn nên truy cập trang chủ trong khi chúng tôi giải quyết vấn đề này.",
+      "description": "Ch&uacute;ng t&ocirc;i khuy&ecirc;n bạn n&ecirc;n truy cập trang chủ trong khi ch&uacute;ng t&ocirc;i giải quyết vấn đề n&agrave;y."
+    }
+  ]
+},
+{
+  "id": 6,
+  "slug": "tiktok-downloader",
+  "type": "downloader",
+  "translations": [
+    {
+      "id": 75,
+      "locale": "de",
+      "title": "TikTok Downloader",
+      "subtitle": "Video-TikTok herunterladen"
+    },
+    {
+      "id": 6,
+      "locale": "en",
+      "title": "TikTok Downloader",
+      "subtitle": "Download Video TikTok"
+    },
+    {
+      "id": 76,
+      "locale": "es",
+      "title": "Descargador de TikTok",
+      "subtitle": "Descargar video TikTok"
+    },
+    {
+      "id": 77,
+      "locale": "fr",
+      "title": "Téléchargeur TikTok",
+      "subtitle": "Télécharger la vidéo TikTok"
+    },
+    {
+      "id": 78,
+      "locale": "it",
+      "title": "TikTok Downloader",
+      "subtitle": "Scarica video TikTok"
+    },
+    {
+      "id": 79,
+      "locale": "pt",
+      "title": "Downloader TikTok",
+      "subtitle": "Baixar Video TikTok"
+    },
+    {
+      "id": 80,
+      "locale": "ru",
+      "title": "Загрузчик TikTok",
+      "subtitle": "Скачать видео в Тик Ток"
+    },
+    {
+      "id": 74,
+      "locale": "vi",
+      "title": "Trình tải xuống TikTok",
+      "subtitle": "Tải xuống Video TikTok"
+    }
+  ]
+},
+{
+  "id": 7,
+  "slug": "twitter-video-downloader",
+  "type": "downloader",
+  "translations": [
+    {
+      "id": 68,
+      "locale": "de",
+      "title": "Twitter Video Downloader",
+      "subtitle": "Twitter zu MP4"
+    },
+    {
+      "id": 7,
+      "locale": "en",
+      "title": "Twitter Video Downloader",
+      "subtitle": "Twitter to MP4"
+    },
+    {
+      "id": 69,
+      "locale": "es",
+      "title": "Descargador de videos de Twitter",
+      "subtitle": "Twitter a MP4"
+    },
+    {
+      "id": 70,
+      "locale": "fr",
+      "title": "Téléchargeur de vidéos Twitter",
+      "subtitle": "Twitter en MP4"
+    },
+    {
+      "id": 71,
+      "locale": "it",
+      "title": "Downloader video di Twitter",
+      "subtitle": "Da Twitter a MP4"
+    },
+    {
+      "id": 72,
+      "locale": "pt",
+      "title": "Downloader de vídeo do Twitter",
+      "subtitle": "Twitter para MP4"
+    },
+    {
+      "id": 73,
+      "locale": "ru",
+      "title": "Загрузчик видео из Twitter",
+      "subtitle": "Twitter в MP4"
+    },
+    {
+      "id": 67,
+      "locale": "vi",
+      "title": "Trình tải xuống video Twitter",
+      "subtitle": "Twitter sang MP4"
+    }
+  ]
+},
+{
+  "id": 8,
+  "slug": "soundcloud-downloader",
+  "type": "downloader",
+  "translations": [
+    {
+      "id": 61,
+      "locale": "de",
+      "title": "SoundCloud Downloader",
+      "subtitle": "SoundCloud zu MP3"
+    },
+    {
+      "id": 8,
+      "locale": "en",
+      "title": "SoundCloud Downloader",
+      "subtitle": "SoundCloud to MP3"
+    },
+    {
+      "id": 62,
+      "locale": "es",
+      "title": "Descargador de SoundCloud",
+      "subtitle": "SoundCloud a MP3"
+    },
+    {
+      "id": 63,
+      "locale": "fr",
+      "title": "Téléchargeur SoundCloud",
+      "subtitle": "SoundCloud en MP3"
+    },
+    {
+      "id": 64,
+      "locale": "it",
+      "title": "Downloader SoundCloud",
+      "subtitle": "Da SoundCloud a MP3"
+    },
+    {
+      "id": 65,
+      "locale": "pt",
+      "title": "Downloader de SoundCloud",
+      "subtitle": "SoundCloud para MP3"
+    },
+    {
+      "id": 66,
+      "locale": "ru",
+      "title": "Загрузчик SoundCloud",
+      "subtitle": "SoundCloud в MP3"
+    },
+    {
+      "id": 60,
+      "locale": "vi",
+      "title": "Trình tải xuống SoundCloud",
+      "subtitle": "SoundCloud sang MP3"
+    }
+  ]
+},
+{
+  "id": 9,
+  "slug": "vlive-downloader",
+  "type": "downloader",
+  "translations": [
+    {
+      "id": 54,
+      "locale": "de",
+      "title": "VLive Downloader",
+      "subtitle": "Video herunterladen VLive"
+    },
+    {
+      "id": 9,
+      "locale": "en",
+      "title": "VLive Downloader",
+      "subtitle": "Download Video VLive"
+    },
+    {
+      "id": 55,
+      "locale": "es",
+      "title": "Descargador de VLive",
+      "subtitle": "Descarga Video VLive"
+    },
+    {
+      "id": 56,
+      "locale": "fr",
+      "title": "Téléchargeur VLive",
+      "subtitle": "Télécharger la vidéo VLive"
+    },
+    {
+      "id": 57,
+      "locale": "it",
+      "title": "VLive Downloader",
+      "subtitle": "Scarica il video VLive"
+    },
+    {
+      "id": 58,
+      "locale": "pt",
+      "title": "Downloader VLive",
+      "subtitle": "Baixe o vídeo VLive"
+    },
+    {
+      "id": 59,
+      "locale": "ru",
+      "title": "Загрузчик VLive",
+      "subtitle": "Скачать видео VLive"
+    },
+    {
+      "id": 53,
+      "locale": "vi",
+      "title": "Trình tải xuống VLive",
+      "subtitle": "Tải xuống video VLive"
+    }
+  ]
+},
+{
+  "id": 10,
+  "slug": "facebook-video-downloader",
+  "type": "downloader",
+  "translations": [
+    {
+      "id": 47,
+      "locale": "de",
+      "title": "Facebook Video Downloader",
+      "subtitle": "Facebook zu MP4"
+    },
+    {
+      "id": 10,
+      "locale": "en",
+      "title": "Facebook Video Downloader",
+      "subtitle": "Facebook to MP4"
+    },
+    {
+      "id": 48,
+      "locale": "es",
+      "title": "Descargador de videos de Facebook",
+      "subtitle": "Facebook a MP4"
+    },
+    {
+      "id": 49,
+      "locale": "fr",
+      "title": "Téléchargeur de vidéos Facebook",
+      "subtitle": "Facebook en MP4"
+    },
+    {
+      "id": 50,
+      "locale": "it",
+      "title": "Downloader video di Facebook Facebook",
+      "subtitle": "Da Facebook a MP4"
+    },
+    {
+      "id": 51,
+      "locale": "pt",
+      "title": "Downloader de vídeo do Facebook",
+      "subtitle": "Facebook para MP4"
+    },
+    {
+      "id": 52,
+      "locale": "ru",
+      "title": "Загрузчик видео с Facebook",
+      "subtitle": "Facebook в MP4"
+    },
+    {
+      "id": 46,
+      "locale": "vi",
+      "title": "Trình tải xuống video trên Facebook",
+      "subtitle": "Facebook sang MP4"
+    }
+  ]
+},
+{
+  "id": 11,
+  "slug": "instagram-video-downloader",
+  "type": "downloader",
+  "translations": [
+    {
+      "id": 40,
+      "locale": "de",
+      "title": "Instagram Video Downloader",
+      "subtitle": "Video herunterladen IG"
+    },
+    {
+      "id": 11,
+      "locale": "en",
+      "title": "Instagram Video Downloader",
+      "subtitle": "Download Video IG"
+    },
+    {
+      "id": 41,
+      "locale": "es",
+      "title": "Descargador de videos de Instagram",
+      "subtitle": "Descargar Video IG"
+    },
+    {
+      "id": 42,
+      "locale": "fr",
+      "title": "Téléchargeur de vidéos Instagram",
+      "subtitle": "Télécharger la vidéo IG"
+    },
+    {
+      "id": 43,
+      "locale": "it",
+      "title": "Downloader di video su Instagram",
+      "subtitle": "Scarica video IG"
+    },
+    {
+      "id": 44,
+      "locale": "pt",
+      "title": "Downloader de vídeo do Instagram",
+      "subtitle": "Baixar vídeo IG"
+    },
+    {
+      "id": 45,
+      "locale": "ru",
+      "title": "Загрузчик видео из Instagram",
+      "subtitle": "Скачать видео IG"
+    },
+    {
+      "id": 39,
+      "locale": "vi",
+      "title": "Trình tải xuống video trên Instagram",
+      "subtitle": "Tải xuống Video IG"
+    }
+  ]
+},
+{
+  "id": 12,
+  "slug": "youtube-downloader",
+  "type": "downloader",
+  "translations": [
+    {
+      "id": 33,
+      "locale": "de",
+      "title": "YouTube Downloader",
+      "subtitle": "YouTube-Videos herunterladen"
+    },
+    {
+      "id": 12,
+      "locale": "en",
+      "title": "YouTube Downloader",
+      "subtitle": "Download YouTube Videos"
+    },
+    {
+      "id": 34,
+      "locale": "es",
+      "title": "Descargador de youtube",
+      "subtitle": "Descargar videos de YouTube"
+    },
+    {
+      "id": 35,
+      "locale": "fr",
+      "title": "Téléchargeur YouTube",
+      "subtitle": "Télécharger des vidéos YouTube"
+    },
+    {
+      "id": 36,
+      "locale": "it",
+      "title": "Youtube Downloader",
+      "subtitle": "Scarica video di YouTube"
+    },
+    {
+      "id": 37,
+      "locale": "pt",
+      "title": "Downloader do YouTube",
+      "subtitle": "Baixe vídeos do YouTube"
+    },
+    {
+      "id": 38,
+      "locale": "ru",
+      "title": "Загрузчик YouTube",
+      "subtitle": "Скачать видео с YouTube"
+    },
+    {
+      "id": 32,
+      "locale": "vi",
+      "title": "Trình tải xuống YouTube",
+      "subtitle": "Tải xuống video trên YouTube"
+    }
+  ]
+},
+{
+  "id": 13,
+  "slug": "vimeo-downloader",
+  "type": "downloader",
+  "translations": [
+    {
+      "id": 26,
+      "locale": "de",
+      "title": "Vimeo Downloader",
+      "subtitle": "Vimeo zu MP4"
+    },
+    {
+      "id": 13,
+      "locale": "en",
+      "title": "Vimeo Downloader",
+      "subtitle": "Vimeo to MP4"
+    },
+    {
+      "id": 27,
+      "locale": "es",
+      "title": "Descargador de Vimeo",
+      "subtitle": "Vimeo a MP4"
+    },
+    {
+      "id": 28,
+      "locale": "fr",
+      "title": "Téléchargeur Vimeo",
+      "subtitle": "Viméo en MP4"
+    },
+    {
+      "id": 29,
+      "locale": "it",
+      "title": "Downloader Vimeo",
+      "subtitle": "Da Vimeo a MP4"
+    },
+    {
+      "id": 30,
+      "locale": "pt",
+      "title": "Downloader do Vimeo",
+      "subtitle": "Vimeo para MP4"
+    },
+    {
+      "id": 31,
+      "locale": "ru",
+      "title": "Загрузчик Vimeo",
+      "subtitle": "Vimeo в MP4"
+    },
+    {
+      "id": 25,
+      "locale": "vi",
+      "title": "Trình tải xuống Vimeo",
+      "subtitle": "Vimeo sang MP4"
+    }
+  ]
+},
+{
+  "id": 14,
+  "slug": "login",
+  "type": "login",
+  "translations": [
+    {
+      "id": 19,
+      "locale": "de",
+      "title": "Anmeldung",
+      "subtitle": "Melden Sie sich mit Ihrer E-Mail-Adresse und Ihrem Passwort an, um mit uns in Verbindung zu bleiben.",
+      "short_description": "Es ist ein lang erwiesener Fakt, dass ein Leser vom Text abgelenkt wird, wenn er sich ein Layout ansieht."
+    },
+    {
+      "id": 14,
+      "locale": "en",
+      "title": "Login",
+      "subtitle": "Login with your email address and password to keep connected with us."
+    },
+    {
+      "id": 20,
+      "locale": "es",
+      "title": "Acceso",
+      "subtitle": "Inicie sesión con su dirección de correo electrónico y contraseña para mantenerse conectado con nosotros."
+    },
+    {
+      "id": 21,
+      "locale": "fr",
+      "title": "Connexion",
+      "subtitle": "Connectez-vous avec votre adresse e-mail et votre mot de passe pour rester connecté avec nous."
+    },
+    {
+      "id": 22,
+      "locale": "it",
+      "title": "Accedere",
+      "subtitle": "Accedi con il tuo indirizzo e-mail e la password per rimanere in contatto con noi."
+    },
+    {
+      "id": 23,
+      "locale": "pt",
+      "title": "Conecte-se",
+      "subtitle": "Faça login com seu endereço de e-mail e senha para se manter conectado."
+    },
+    {
+      "id": 24,
+      "locale": "ru",
+      "title": "Aвторизоваться",
+      "subtitle": "Войдите в систему, указав свой адрес электронной почты и пароль, чтобы оставаться на связи с нами."
+    },
+    {
+      "id": 18,
+      "locale": "vi",
+      "title": "Đăng nhập",
+      "subtitle": "Đăng nhập bằng địa chỉ email và mật khẩu của bạn để giữ kết nối với chúng tôi."
+    }
+  ]
+},
+{
+  "id": 15,
+  "slug": "what-is-lorem-ipsum",
+  "type": "default",
+  "translations": [
+    {
+      "id": 128,
+      "locale": "de",
+      "title": "Was ist Lorem Ipsum?",
+      "subtitle": "Ein aktueller Artikel von uns"
+    },
+    {
+      "id": 120,
+      "locale": "en",
+      "title": "What is Lorem Ipsum?",
+      "subtitle": "Stay up to date with the latest news"
+    },
+    {
+      "id": 132,
+      "locale": "es",
+      "title": "¿Qué es Lorem Ipsum?",
+      "subtitle": "Un último artículo de nosotros"
+    },
+    {
+      "id": 136,
+      "locale": "fr",
+      "title": "Qu'est-ce que le Lorem Ipsum?",
+      "subtitle": "Un dernier article de nous"
+    },
+    {
+      "id": 140,
+      "locale": "it",
+      "title": "Cos’è Lorem Ipsum?",
+      "subtitle": "Un nostro ultimo articolo"
+    },
+    {
+      "id": 144,
+      "locale": "pt",
+      "title": "O que é o Lorem Ipsum?",
+      "subtitle": "Um último artigo nosso"
+    },
+    {
+      "id": 148,
+      "locale": "ru",
+      "title": "Что такое Lorem Ipsum?",
+      "subtitle": "Последняя статья от нас"
+    },
+    {
+      "id": 124,
+      "locale": "vi",
+      "title": "Lorem Ipsum là gì?",
+      "subtitle": "Cập nhật bài viết mới nhất từ chúng tôi"
+    }
+  ]
+},
+{
+  "id": 16,
+  "slug": "why-do-we-use-it",
+  "type": "default",
+  "translations": [
+    {
+      "id": 129,
+      "locale": "de",
+      "title": "Warum nutzen wir es?",
+      "subtitle": "Ein aktueller Artikel von uns"
+    },
+    {
+      "id": 121,
+      "locale": "en",
+      "title": "Why do we use it?",
+      "subtitle": "Stay up to date with the latest news"
+    },
+    {
+      "id": 133,
+      "locale": "es",
+      "title": "¿Por qué lo usamos?",
+      "subtitle": "Un último artículo de nosotros"
+    },
+    {
+      "id": 137,
+      "locale": "fr",
+      "title": "Pourquoi l'utiliser?",
+      "subtitle": "Un dernier article de nous"
+    },
+    {
+      "id": 141,
+      "locale": "it",
+      "title": "Perchè lo utilizziamo?",
+      "subtitle": "Un nostro ultimo articolo"
+    },
+    {
+      "id": 145,
+      "locale": "pt",
+      "title": "Porque é que o usamos?",
+      "subtitle": "Um último artigo nosso"
+    },
+    {
+      "id": 149,
+      "locale": "ru",
+      "title": "Почему он используется?",
+      "subtitle": "Последняя статья от нас"
+    },
+    {
+      "id": 125,
+      "locale": "vi",
+      "title": "Tại sao lại sử dụng nó?",
+      "subtitle": "Một bài viết mới nhất từ chúng tôi"
+    }
+  ]
+},
+{
+  "id": 17,
+  "slug": "where-does-it-come-from",
+  "type": "default",
+  "translations": [
+    {
+      "id": 130,
+      "locale": "de",
+      "title": "Wo kommt es her?",
+      "subtitle": "Ein aktueller Artikel von uns"
+    },
+    {
+      "id": 122,
+      "locale": "en",
+      "title": "Where does it come from?",
+      "subtitle": "Stay up to date with the latest news"
+    },
+    {
+      "id": 134,
+      "locale": "es",
+      "title": "¿De dónde viene?",
+      "subtitle": "Un último artículo de nosotros"
+    },
+    {
+      "id": 138,
+      "locale": "fr",
+      "title": "D'où vient-il?",
+      "subtitle": "Un dernier article de nous"
+    },
+    {
+      "id": 142,
+      "locale": "it",
+      "title": "Da dove viene?",
+      "subtitle": "Un nostro ultimo articolo"
+    },
+    {
+      "id": 146,
+      "locale": "pt",
+      "title": "De onde é que ele vem?",
+      "subtitle": "Um último artigo nosso"
+    },
+    {
+      "id": 150,
+      "locale": "ru",
+      "title": "Откуда он появился?",
+      "subtitle": "Последняя статья от нас"
+    },
+    {
+      "id": 126,
+      "locale": "vi",
+      "title": "Nó đến từ đâu?",
+      "subtitle": "Một bài viết mới nhất từ chúng tôi"
+    }
+  ]
+},
+{
+  "id": 18,
+  "slug": "where-can-i-get-some",
+  "type": "default",
+  "translations": [
+    {
+      "id": 131,
+      "locale": "de",
+      "title": "Wo kann ich es kriegen?",
+      "subtitle": "Ein aktueller Artikel von uns"
+    },
+    {
+      "id": 123,
+      "locale": "en",
+      "title": "Where can I get some?",
+      "subtitle": "Stay up to date with the latest news"
+    },
+    {
+      "id": 135,
+      "locale": "es",
+      "title": "¿Dónde puedo conseguirlo?",
+      "subtitle": "Un último artículo de nosotros"
+    },
+    {
+      "id": 139,
+      "locale": "fr",
+      "title": "Où puis-je m'en procurer?",
+      "subtitle": "Un dernier article de nous"
+    },
+    {
+      "id": 143,
+      "locale": "it",
+      "title": "Dove posso trovarlo?",
+      "subtitle": "Un nostro ultimo articolo"
+    },
+    {
+      "id": 147,
+      "locale": "pt",
+      "title": "Onde posso arranjar algum?",
+      "subtitle": "Um último artigo nosso"
+    },
+    {
+      "id": 151,
+      "locale": "ru",
+      "title": "Где его взять?",
+      "subtitle": "Последняя статья от нас"
+    },
+    {
+      "id": 127,
+      "locale": "vi",
+      "title": "Làm thế nào để có nó?",
+      "subtitle": "Một bài viết mới nhất từ chúng tôi"
+    }
+  ]
+},
+{
+  "id": 19,
+  "slug": "lovely-and-cosy-apartment",
+  "type": "default",
+  "translations": [
+    {
+      "id": 156,
+      "locale": "de",
+      "title": "Schöne und gemütliche Wohnung",
+      "subtitle": "Ein aktueller Artikel von uns"
+    },
+    {
+      "id": 152,
+      "locale": "en",
+      "title": "Lovely and cosy apartment",
+      "subtitle": "Stay up to date with the latest news"
+    },
+    {
+      "id": 158,
+      "locale": "es",
+      "title": "Apartamento encantador y acogedor",
+      "subtitle": "Un último artículo de nosotros"
+    },
+    {
+      "id": 160,
+      "locale": "fr",
+      "title": "Appartement charmant et confortable",
+      "subtitle": "Un dernier article de nous"
+    },
+    {
+      "id": 162,
+      "locale": "it",
+      "title": "Appartamento carino e accogliente",
+      "subtitle": "Un nostro ultimo articolo"
+    },
+    {
+      "id": 164,
+      "locale": "pt",
+      "title": "Apartamento lindo e aconchegante",
+      "subtitle": "Um último artigo nosso"
+    },
+    {
+      "id": 166,
+      "locale": "ru",
+      "title": "Прекрасная и уютная квартира",
+      "subtitle": "Последняя статья от нас"
+    },
+    {
+      "id": 154,
+      "locale": "vi",
+      "title": "Căn hộ xinh xắn và ấm cúng",
+      "subtitle": "Một bài viết mới nhất từ chúng tôi"
+    }
+  ]
+},
+{
+  "id": 20,
+  "slug": "single-room-in-the-center-of-the-city",
+  "type": "default",
+  "translations": [
+    {
+      "id": 157,
+      "locale": "de",
+      "title": "Einzelzimmer im Zentrum der Stadt",
+      "subtitle": "Ein aktueller Artikel von uns"
+    },
+    {
+      "id": 153,
+      "locale": "en",
+      "title": "Single room in the center of the city",
+      "subtitle": "Stay up to date with the latest news"
+    },
+    {
+      "id": 159,
+      "locale": "es",
+      "title": "Habitación individual en el centro de la ciudad",
+      "subtitle": "Un último artículo de nosotros"
+    },
+    {
+      "id": 161,
+      "locale": "fr",
+      "title": "Chambre simple au centre de la ville",
+      "subtitle": "Un dernier article de nous"
+    },
+    {
+      "id": 163,
+      "locale": "it",
+      "title": "Camera singola nel centro della città",
+      "subtitle": "Un nostro ultimo articolo"
+    },
+    {
+      "id": 165,
+      "locale": "pt",
+      "title": "Quarto individual no centro da cidade",
+      "subtitle": "Um último artigo nosso"
+    },
+    {
+      "id": 167,
+      "locale": "ru",
+      "title": "Однокомнатный номер в центре города",
+      "subtitle": "Последняя статья от нас"
+    },
+    {
+      "id": 155,
+      "locale": "vi",
+      "title": "Phòng đơn ở trung tâm thành phố",
+      "subtitle": "Một bài viết mới nhất từ chúng tôi"
+    }
+  ]
+}
+]

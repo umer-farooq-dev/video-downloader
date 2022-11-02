@@ -1,0 +1,50 @@
+[
+	{
+		"id": 3,
+		"name": "English",
+		"code": "en",
+		"default": 1
+	},
+	{
+		"id": 11,
+		"name": "Vietnamese",
+		"code": "vi",
+		"default": 0
+	},
+	{
+		"id": 16,
+		"name": "German",
+		"code": "de",
+		"default": 0
+	},
+	{
+		"id": 17,
+		"name": "Spanish",
+		"code": "es",
+		"default": 0
+	},
+	{
+		"id": 18,
+		"name": "French",
+		"code": "fr",
+		"default": 0
+	},
+	{
+		"id": 19,
+		"name": "Italian",
+		"code": "it",
+		"default": 0
+	},
+	{
+		"id": 20,
+		"name": "Portuguese",
+		"code": "pt",
+		"default": 0
+	},
+	{
+		"id": 21,
+		"name": "Russian",
+		"code": "ru",
+		"default": 0
+	}
+]

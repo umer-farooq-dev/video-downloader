@@ -1,0 +1,89 @@
+
+Version 1.0.7 (August 6, 2021)
+- ENHANCEMENT: Update Twitter module
+- FIXED: Facebook not working with some links
+- FIXED: Error downloading TikTok videos when using Proxy
+- FIXED: Youtube file size and timeout error
+- FIXED: Wrong share URL on social sharing on the homepage
+- FIXED: Problems downloading videos with IDM
+- FIXED: Problem in the footer when removing language
+- FIXED: Error 0kb when downloading Youtube music
+- FIXED: Error displaying .html when downloading videos on mobile devices
+- Minor bug fixes.
+
+Version 1.0.6 (August 1, 2021)
+- NEW: Add Paste button to download box
+- NEW: Add edit button on the single page
+- NEW: Add page view feature in the translation editing page
+- NEW: Add the feature to clear all cache
+- NEW: Add proxy feature
+- ENHANCEMENT: Delete maintenance mode on the login page
+- ENHANCEMENT: Force download on a single page
+- ENHANCEMENT: Display of quality type in Z - A order
+- ENHANCEMENT: Social share open in the same window
+- FIXED: Facebook not working with some links
+- FIXED: Instagram not working with some video links
+- FIXED: The embed link is not working in the description section.
+- FIXED: TikTok file size
+- FIXED: Youtube file size
+- FIXED: Send mail
+- Minor bug fixes.
+
+Version 1.0.5 (July 20, 2021)
+- FIXED: Language menu
+- FIXED: Download with TikTok
+- Minor bug fixes.
+
+Version 1.0.4 (July 18, 2021)
+- NEW: Add some variant domains to the support list
+- NEW: Add feature to turn off ads on specified pages
+- NEW: Added force download feature
+- NEW: Add prefix feature for download file
+- NEW: Add redirect feature
+- NEW: Support get the link in the address bar with the format: domain.com/?url=URL
+- ENHANCEMENT: The option to add links to Supported Sites
+- ENHANCEMENT: The option to enter Port and Host during installation
+- ENHANCEMENT: Video, Image and Audio format options tabs in the download box
+- ENHANCEMENT: Update Youtube to MP3 module
+- ENHANCEMENT: Update Facebook module
+- ENHANCEMENT: Update TikTok module without watermark
+- FIXED: The problem with the alt tag of the logo
+- FIXED: The problem with HTTP domains
+- FIXED: The problem with displaying flags
+- FIXED: Error 500 after removing language
+- FIXED: The problem with the display on mobile devices
+- Minor bug fixes.
+
+Version 1.0.3 (July 11, 2021)
+- NEW: Add Facebook variant domains to support list
+- ENHANCEMENT: Language homogenization on the blog posts
+- ENHANCEMENT: Language removal feature
+- ENHANCEMENT: GDPR Privacy Notice feature
+- FIXED: Changing Parallax Image Background
+- FIXED: Saving changes to some settings
+- FIXED: Can't change avatar
+- FIXED: Duplicate alert
+- FIXED: HLS M3U8 file download feature on SoundCloud
+- Minor bug fixes.
+
+Version 1.0.2 (July 7, 2021)
+- NEW: Added blog posts page.
+- NEW: Added Maintenance mode.
+- NEW: Added Automatic Language Detection.
+- NEW: Added JSON API.
+- ENHANCEMENT: Improved Facebook module.
+- ENHANCEMENT: Improved Instagram module.
+- ENHANCEMENT: Update Bootstrap v5.0.2.
+- FIXED: Preview Image on Download Box.
+- FIXED: Parallax Image on Mobile.
+- Minor bug fixes.
+
+Version 1.0.1 (June 22, 2021)
+- FIXED: Error getting some facebook links.
+- FIXED: Error displaying Menu on mobile.
+- FIXED: Installation error on subfolder.
+- DEV: Added advanced feature (Insert Header & Footer).
+- Minor bug fixes.
+
+Version 1.0.0 (June 1, 2021)
+ - Initial release.

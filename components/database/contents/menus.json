@@ -1,0 +1,156 @@
+[
+	{
+		"id": 38,
+		"text": "Downloader",
+		"url": "#",
+		"menu_items": "custom",
+		"icon": null,
+		"type": "link",
+		"class": null,
+		"parent_id": 0,
+		"sort": 1
+	},
+	{
+		"id": 39,
+		"text": " Facebook Video Downloader",
+		"url": "facebook-video-downloader",
+		"menu_items": "#",
+		"icon": null,
+		"type": "link",
+		"class": null,
+		"parent_id": 38,
+		"sort": 2
+	},
+	{
+		"id": 40,
+		"text": " Instagram Video Downloader",
+		"url": "instagram-video-downloader",
+		"menu_items": "#",
+		"icon": null,
+		"type": "link",
+		"class": null,
+		"parent_id": 38,
+		"sort": 3
+	},
+	{
+		"id": 41,
+		"text": " SoundCloud Downloader",
+		"url": "soundcloud-downloader",
+		"menu_items": "#",
+		"icon": null,
+		"type": "link",
+		"class": null,
+		"parent_id": 38,
+		"sort": 4
+	},
+	{
+		"id": 42,
+		"text": "TikTok Downloader",
+		"url": "tiktok-downloader",
+		"menu_items": "#",
+		"icon": null,
+		"type": "link",
+		"class": null,
+		"parent_id": 38,
+		"sort": 5
+	},
+	{
+		"id": 43,
+		"text": "Twitter Video Downloader",
+		"url": "twitter-video-downloader",
+		"menu_items": "#",
+		"icon": null,
+		"type": "link",
+		"class": null,
+		"parent_id": 38,
+		"sort": 6
+	},
+	{
+		"id": 44,
+		"text": " Vimeo Downloader",
+		"url": "vimeo-downloader",
+		"menu_items": "#",
+		"icon": null,
+		"type": "link",
+		"class": null,
+		"parent_id": 38,
+		"sort": 7
+	},
+	{
+		"id": 45,
+		"text": " VLive Downloader",
+		"url": "vlive-downloader",
+		"menu_items": "#",
+		"icon": null,
+		"type": "link",
+		"class": null,
+		"parent_id": 38,
+		"sort": 8
+	},
+	{
+		"id": 46,
+		"text": "YouTube Downloader",
+		"url": "youtube-downloader",
+		"menu_items": "#",
+		"icon": null,
+		"type": "link",
+		"class": null,
+		"parent_id": 38,
+		"sort": 9
+	},
+	{
+		"id": 51,
+		"text": "Blog",
+		"url": "blog",
+		"menu_items": "#",
+		"icon": null,
+		"type": "link",
+		"class": null,
+		"parent_id": 0,
+		"sort": 14
+	},
+	{
+		"id": 52,
+		"text": "Report Links",
+		"url": "report",
+		"menu_items": "#",
+		"icon": null,
+		"type": "link",
+		"class": null,
+		"parent_id": 0,
+		"sort": 15
+	},
+	{
+		"id": 53,
+		"text": "Contact",
+		"url": "contact",
+		"menu_items": "#",
+		"icon": null,
+		"type": "link",
+		"class": null,
+		"parent_id": 0,
+		"sort": 16
+	},
+	{
+		"id": 54,
+		"text": "Buy Now",
+		"url": "https://codecanyon.net/item/vidclear-video-downloader-script/32439890",
+		"menu_items": "custom",
+		"icon": "fas fa-shopping-basket",
+		"type": "button",
+		"class": "bg-gradient-primary",
+		"parent_id": 0,
+		"sort": 18
+	},
+	{
+		"id": 55,
+		"text": "Login",
+		"url": "login",
+		"menu_items": "#",
+		"icon": "fas fa-user",
+		"type": "button",
+		"class": "bg-gradient-success",
+		"parent_id": 0,
+		"sort": 17
+	}
+]

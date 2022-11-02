@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="506.25pt" height="337.499995pt" viewBox="0 0 506.25 337.499995" version="1.2">
+<defs>
+<clipPath id="clip1">
+  <path d="M 0 0 L 505.5 0 L 505.5 337 L 0 337 Z M 0 0 "/>
+</clipPath>
+<clipPath id="clip2">
+  <path d="M 0 56 L 505.5 56 L 505.5 281 L 0 281 Z M 0 56 "/>
+</clipPath>
+<clipPath id="clip3">
+  <path d="M 0 37 L 505.5 37 L 505.5 300 L 0 300 Z M 0 37 "/>
+</clipPath>
+</defs>
+<g id="surface1">
+<g clip-path="url(#clip1)" clip-rule="nonzero">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 0 0 L 505.5 0 L 505.5 337 L 0 337 Z M 0 0 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 0 0 L 505.5 0 L 505.5 337 L 0 337 Z M 0 0 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,84.309387%,0%);fill-opacity:1;" d="M -0.0078125 0 L 505.289062 0 L 505.289062 337 L -0.0078125 337 Z M -0.0078125 0 "/>
+</g>
+<g clip-path="url(#clip2)" clip-rule="nonzero">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M -0.0078125 56.167969 L 505.289062 56.167969 M 505.289062 131.054688 L -0.0078125 131.054688 M -0.0078125 205.945312 L 505.289062 205.945312 M 505.289062 280.832031 L -0.0078125 280.832031 "/>
+</g>
+<g clip-path="url(#clip3)" clip-rule="nonzero">
+<path style="fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(79.998779%,0%,0%);stroke-opacity:1;stroke-miterlimit:4;" d="M 0.00000754508 1.500032 L 13.499986 1.500032 M 13.499986 3.499969 L 0.00000754508 3.499969 M 0.00000754508 5.500011 L 13.499986 5.500011 M 13.499986 7.499949 L 0.00000754508 7.499949 " transform="matrix(37.429459,0,0,37.444525,-0.00809491,0)"/>
+</g>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(5.879211%,27.839661%,68.629456%);fill-opacity:1;" d="M -0.0078125 0 L -0.0078125 337 L 168.425781 168.5 Z M -0.0078125 0 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 73.417969 119.527344 L 102.605469 209.394531 L 26.191406 153.855469 L 120.644531 153.855469 L 44.230469 209.394531 Z M 73.417969 119.527344 "/>
+</g>
+</svg>

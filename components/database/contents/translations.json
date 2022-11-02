@@ -1,0 +1,1874 @@
+[
+	{
+		"id": 297,
+		"key": "The Email or Password is Incorrect!",
+		"value": "The Email or Password is Incorrect!",
+		"lang_id": 3
+	},
+	{
+		"id": 300,
+		"key": "Thank you for your message. It has been sent!",
+		"value": "Thank you for your message. It has been sent!",
+		"lang_id": 3
+	},
+	{
+		"id": 301,
+		"key": "There was an error trying to send your message. Please try again later.",
+		"value": "There was an error trying to send your message. Please try again later.",
+		"lang_id": 3
+	},
+	{
+		"id": 302,
+		"key": "The link you sent is not on the supported sites.",
+		"value": "The link you sent is not on the supported sites.",
+		"lang_id": 3
+	},
+	{
+		"id": 303,
+		"key": "Thanks for reporting issues to us. We will fix this issues as soon as possible.",
+		"value": "Thanks for reporting issues to us. We will fix this issues as soon as possible.",
+		"lang_id": 3
+	},
+	{
+		"id": 304,
+		"key": "Data not found!",
+		"value": "Data not found!",
+		"lang_id": 3
+	},
+	{
+		"id": 335,
+		"key": "Go to Homepage",
+		"value": "Go to Homepage",
+		"lang_id": 3
+	},
+	{
+		"id": 336,
+		"key": "Whoops! Something went wrong.",
+		"value": "Whoops! Something went wrong.",
+		"lang_id": 3
+	},
+	{
+		"id": 484,
+		"key": "Sign In",
+		"value": "Sign In",
+		"lang_id": 3
+	},
+	{
+		"id": 485,
+		"key": "Enter your email and password to sign in",
+		"value": "Enter your email and password to sign in",
+		"lang_id": 3
+	},
+	{
+		"id": 486,
+		"key": "Remember me",
+		"value": "Remember me",
+		"lang_id": 3
+	},
+	{
+		"id": 488,
+		"key": "Welcome back!",
+		"value": "Welcome back!",
+		"lang_id": 3
+	},
+	{
+		"id": 489,
+		"key": "Login with your email address and password to keep connected with us.",
+		"value": "Login with your email address and password to keep connected with us.",
+		"lang_id": 3
+	},
+	{
+		"id": 490,
+		"key": "Send us an Email",
+		"value": "Send us an Email",
+		"lang_id": 3
+	},
+	{
+		"id": 491,
+		"key": "Send Message",
+		"value": "Send Message",
+		"lang_id": 3
+	},
+	{
+		"id": 492,
+		"key": "Describe your problem here!",
+		"value": "Describe your problem here!",
+		"lang_id": 3
+	},
+	{
+		"id": 493,
+		"key": "Download",
+		"value": "Download",
+		"lang_id": 3
+	},
+	{
+		"id": 494,
+		"key": "Paste the URL here to start downloading...",
+		"value": "Paste the URL here to start downloading...",
+		"lang_id": 3
+	},
+	{
+		"id": 496,
+		"key": "Accept all cookies",
+		"value": "Accept all cookies",
+		"lang_id": 3
+	},
+	{
+		"id": 497,
+		"key": "Enter one URL per line in the text area below",
+		"value": "Enter one URL per line in the text area below",
+		"lang_id": 3
+	},
+	{
+		"id": 498,
+		"key": "Submit",
+		"value": "Submit",
+		"lang_id": 3
+	},
+	{
+		"id": 2027,
+		"key": "Follow us",
+		"value": "Follow us",
+		"lang_id": 3
+	},
+	{
+		"id": 2029,
+		"key": "The Email or Password is Incorrect!",
+		"value": "Email hoặc mật khẩu không chính xác!",
+		"lang_id": 11
+	},
+	{
+		"id": 2031,
+		"key": "Thank you for your message. It has been sent!",
+		"value": "Cảm ơn về tin nhắn của bạn. Nó đã được gửi đi!",
+		"lang_id": 11
+	},
+	{
+		"id": 2032,
+		"key": "There was an error trying to send your message. Please try again later.",
+		"value": "Đã xảy ra lỗi khi cố gửi tin nhắn của bạn. Vui lòng thử lại sau.",
+		"lang_id": 11
+	},
+	{
+		"id": 2033,
+		"key": "The link you sent is not on the supported sites.",
+		"value": "Liên kết bạn đã gửi không có trên các trang web được hỗ trợ.",
+		"lang_id": 11
+	},
+	{
+		"id": 2034,
+		"key": "Thanks for reporting issues to us. We will fix this issues as soon as possible.",
+		"value": "Cảm ơn đã báo cáo vấn đề cho chúng tôi. Chúng tôi sẽ khắc phục sự cố này càng sớm càng tốt.",
+		"lang_id": 11
+	},
+	{
+		"id": 2035,
+		"key": "Data not found!",
+		"value": "Dữ liệu không tồn tại!",
+		"lang_id": 11
+	},
+	{
+		"id": 2036,
+		"key": "Go to Homepage",
+		"value": "Quay lại Trang chủ",
+		"lang_id": 11
+	},
+	{
+		"id": 2037,
+		"key": "Whoops! Something went wrong.",
+		"value": "Rất tiếc! Đã xảy ra lỗi.",
+		"lang_id": 11
+	},
+	{
+		"id": 2038,
+		"key": "Sign In",
+		"value": "Đăng nhập",
+		"lang_id": 11
+	},
+	{
+		"id": 2039,
+		"key": "Enter your email and password to sign in",
+		"value": "Nhập email và mật khẩu của bạn để đăng nhập",
+		"lang_id": 11
+	},
+	{
+		"id": 2040,
+		"key": "Remember me",
+		"value": "Ghi nhớ đăng nhập",
+		"lang_id": 11
+	},
+	{
+		"id": 2041,
+		"key": "Welcome back!",
+		"value": "Chào mừng trở lại!",
+		"lang_id": 11
+	},
+	{
+		"id": 2042,
+		"key": "Login with your email address and password to keep connected with us.",
+		"value": "Đăng nhập bằng địa chỉ email và mật khẩu của bạn để giữ kết nối với chúng tôi.",
+		"lang_id": 11
+	},
+	{
+		"id": 2043,
+		"key": "Send us an Email",
+		"value": "Gửi Email cho chúng tôi",
+		"lang_id": 11
+	},
+	{
+		"id": 2044,
+		"key": "Send Message",
+		"value": "Gửi tin nhắn",
+		"lang_id": 11
+	},
+	{
+		"id": 2045,
+		"key": "Describe your problem here!",
+		"value": "Mô tả vấn đề của bạn ở đây!",
+		"lang_id": 11
+	},
+	{
+		"id": 2046,
+		"key": "Download",
+		"value": "Tải xuống",
+		"lang_id": 11
+	},
+	{
+		"id": 2047,
+		"key": "Paste the URL here to start downloading...",
+		"value": "Dán URL vào đây để bắt đầu tải xuống...",
+		"lang_id": 11
+	},
+	{
+		"id": 2049,
+		"key": "Accept all cookies",
+		"value": "Chấp nhận tất cả cookie",
+		"lang_id": 11
+	},
+	{
+		"id": 2050,
+		"key": "Enter one URL per line in the text area below",
+		"value": "Nhập một URL trên mỗi dòng vào vùng văn bản bên dưới",
+		"lang_id": 11
+	},
+	{
+		"id": 2051,
+		"key": "Submit",
+		"value": "Gửi đi",
+		"lang_id": 11
+	},
+	{
+		"id": 2052,
+		"key": "Follow us",
+		"value": "Theo dõi chúng tôi",
+		"lang_id": 11
+	},
+	{
+		"id": 2053,
+		"key": "Supported Resources",
+		"value": "Supported Resources",
+		"lang_id": 3
+	},
+	{
+		"id": 2054,
+		"key": "Supported Resources",
+		"value": "Tài nguyên được hỗ trợ",
+		"lang_id": 11
+	},
+	{
+		"id": 2055,
+		"key": "Enjoy the little things in life. For one day, you may look back and realize they were the big things. Many of life's failures are people who did not realize how close they were to success when they gave up.",
+		"value": "Enjoy the little things in life. For one day, you may look back and realize they were the big things. Many of life's failures are people who did not realize how close they were to success when they gave up.",
+		"lang_id": 3
+	},
+	{
+		"id": 2056,
+		"key": "Enjoy the little things in life. For one day, you may look back and realize they were the big things. Many of life's failures are people who did not realize how close they were to success when they gave up.",
+		"value": "Tận hưởng những điều nhỏ nhặt trong cuộc sống. Một ngày nào đó, bạn có thể nhìn lại và nhận ra chúng là những điều to lớn. Nhiều người thất bại trong cuộc sống là những người đã không nhận ra rằng họ đã đến gần với thành công như thế nào khi họ đã từ bỏ.",
+		"lang_id": 11
+	},
+	{
+		"id": 2059,
+		"key": "Buy Now",
+		"value": "Mua ngay",
+		"lang_id": 11
+	},
+	{
+		"id": 2060,
+		"key": "Buy Now",
+		"value": "Buy Now",
+		"lang_id": 3
+	},
+	{
+		"id": 2061,
+		"key": "Login",
+		"value": "Login",
+		"lang_id": 3
+	},
+	{
+		"id": 2062,
+		"key": "Login",
+		"value": "Đăng nhập",
+		"lang_id": 11
+	},
+	{
+		"id": 2159,
+		"key": "Contact",
+		"value": "Liên hệ",
+		"lang_id": 11
+	},
+	{
+		"id": 2160,
+		"key": "Report Links",
+		"value": "Báo cáo",
+		"lang_id": 11
+	},
+	{
+		"id": 2161,
+		"key": "Single Article",
+		"value": "Bài viết",
+		"lang_id": 11
+	},
+	{
+		"id": 2162,
+		"key": "Downloader",
+		"value": "Trình tải xuống",
+		"lang_id": 11
+	},
+	{
+		"id": 2163,
+		"key": "Contact",
+		"value": "Contact",
+		"lang_id": 3
+	},
+	{
+		"id": 2164,
+		"key": "Report Links",
+		"value": "Report Links",
+		"lang_id": 3
+	},
+	{
+		"id": 2165,
+		"key": "Single Article",
+		"value": "Single Article",
+		"lang_id": 3
+	},
+	{
+		"id": 2166,
+		"key": "Downloader",
+		"value": "Downloader",
+		"lang_id": 3
+	},
+	{
+		"id": 2167,
+		"key": "The Email or Password is Incorrect!",
+		"value": "Die E-Mail oder das Passwort ist falsch!",
+		"lang_id": 16
+	},
+	{
+		"id": 2168,
+		"key": "Thank you for your message. It has been sent!",
+		"value": "Danke für deine Nachricht. Es wurde gesendet!",
+		"lang_id": 16
+	},
+	{
+		"id": 2169,
+		"key": "There was an error trying to send your message. Please try again later.",
+		"value": "Beim Senden Ihrer Nachricht ist ein Fehler aufgetreten. Bitte versuchen Sie es später erneut.",
+		"lang_id": 16
+	},
+	{
+		"id": 2170,
+		"key": "The link you sent is not on the supported sites.",
+		"value": "Der von Ihnen gesendete Link befindet sich nicht auf den unterstützten Websites.",
+		"lang_id": 16
+	},
+	{
+		"id": 2171,
+		"key": "Thanks for reporting issues to us. We will fix this issues as soon as possible.",
+		"value": "Vielen Dank, dass Sie uns Probleme gemeldet haben. Wir werden diese Probleme so schnell wie möglich beheben.",
+		"lang_id": 16
+	},
+	{
+		"id": 2172,
+		"key": "Data not found!",
+		"value": "Daten nicht gefunden!",
+		"lang_id": 16
+	},
+	{
+		"id": 2173,
+		"key": "Go to Homepage",
+		"value": "Zur Startseite gehen",
+		"lang_id": 16
+	},
+	{
+		"id": 2174,
+		"key": "Whoops! Something went wrong.",
+		"value": "Hoppla! Etwas ist schief gelaufen.",
+		"lang_id": 16
+	},
+	{
+		"id": 2175,
+		"key": "Sign In",
+		"value": "Einloggen",
+		"lang_id": 16
+	},
+	{
+		"id": 2176,
+		"key": "Enter your email and password to sign in",
+		"value": "Geben Sie Ihre E-Mail und Ihr Passwort ein, um sich anzumelden ",
+		"lang_id": 16
+	},
+	{
+		"id": 2177,
+		"key": "Remember me",
+		"value": "Mich erinnern",
+		"lang_id": 16
+	},
+	{
+		"id": 2178,
+		"key": "Welcome back!",
+		"value": "Willkommen zurück!",
+		"lang_id": 16
+	},
+	{
+		"id": 2179,
+		"key": "Login with your email address and password to keep connected with us.",
+		"value": "Melden Sie sich mit Ihrer E-Mail-Adresse und Ihrem Passwort an, um mit uns in Verbindung zu bleiben.",
+		"lang_id": 16
+	},
+	{
+		"id": 2180,
+		"key": "Send us an Email",
+		"value": "Senden Sie uns eine Email",
+		"lang_id": 16
+	},
+	{
+		"id": 2181,
+		"key": "Send Message",
+		"value": "Nachricht senden",
+		"lang_id": 16
+	},
+	{
+		"id": 2182,
+		"key": "Describe your problem here!",
+		"value": "Beschreiben Sie hier Ihr Problem!",
+		"lang_id": 16
+	},
+	{
+		"id": 2183,
+		"key": "Download",
+		"value": "Herunterladen",
+		"lang_id": 16
+	},
+	{
+		"id": 2184,
+		"key": "Paste the URL here to start downloading...",
+		"value": "Fügen Sie die URL hier ein, um den Download zu starten...",
+		"lang_id": 16
+	},
+	{
+		"id": 2185,
+		"key": "Accept all cookies",
+		"value": "Alle Cookies akzeptieren",
+		"lang_id": 16
+	},
+	{
+		"id": 2186,
+		"key": "Enter one URL per line in the text area below",
+		"value": "Geben Sie eine URL pro Zeile in das Textfeld unten ein",
+		"lang_id": 16
+	},
+	{
+		"id": 2187,
+		"key": "Submit",
+		"value": "Einreichen",
+		"lang_id": 16
+	},
+	{
+		"id": 2188,
+		"key": "Follow us",
+		"value": "Folge uns",
+		"lang_id": 16
+	},
+	{
+		"id": 2189,
+		"key": "Supported Resources",
+		"value": "Unterstützte Ressourcen",
+		"lang_id": 16
+	},
+	{
+		"id": 2190,
+		"key": "Enjoy the little things in life. For one day, you may look back and realize they were the big things. Many of life's failures are people who did not realize how close they were to success when they gave up.",
+		"value": "Die kleinen Dinge im Leben genießen. Einen Tag lang werden Sie vielleicht zurückblicken und feststellen, dass dies die großen Dinge waren. Viele Misserfolge im Leben sind Menschen, die nicht wussten, wie nah sie dem Erfolg waren, als sie aufgeben.",
+		"lang_id": 16
+	},
+	{
+		"id": 2191,
+		"key": "Buy Now",
+		"value": "Kaufe jetzt",
+		"lang_id": 16
+	},
+	{
+		"id": 2192,
+		"key": "Login",
+		"value": "Anmeldung ",
+		"lang_id": 16
+	},
+	{
+		"id": 2193,
+		"key": "Contact",
+		"value": "Kontakt",
+		"lang_id": 16
+	},
+	{
+		"id": 2194,
+		"key": "Report Links",
+		"value": "Bericht",
+		"lang_id": 16
+	},
+	{
+		"id": 2195,
+		"key": "Single Article",
+		"value": "Beiträge",
+		"lang_id": 16
+	},
+	{
+		"id": 2196,
+		"key": "Downloader",
+		"value": "Downloader",
+		"lang_id": 16
+	},
+	{
+		"id": 2197,
+		"key": "The Email or Password is Incorrect!",
+		"value": "¡El correo electrónico o la contraseña son incorrectos!",
+		"lang_id": 17
+	},
+	{
+		"id": 2198,
+		"key": "Thank you for your message. It has been sent!",
+		"value": "Gracias por tu mensaje. ¡Ha sido enviado!",
+		"lang_id": 17
+	},
+	{
+		"id": 2199,
+		"key": "There was an error trying to send your message. Please try again later.",
+		"value": "Hubo un error al intentar enviar su mensaje. Por favor, inténtelo de nuevo más tarde.",
+		"lang_id": 17
+	},
+	{
+		"id": 2200,
+		"key": "The link you sent is not on the supported sites.",
+		"value": "El enlace que envió no se encuentra en los sitios admitidos.",
+		"lang_id": 17
+	},
+	{
+		"id": 2201,
+		"key": "Thanks for reporting issues to us. We will fix this issues as soon as possible.",
+		"value": "Gracias por informarnos los problemas. Solucionaremos estos problemas lo antes posible.",
+		"lang_id": 17
+	},
+	{
+		"id": 2202,
+		"key": "Data not found!",
+		"value": "¡Datos no encontrados!",
+		"lang_id": 17
+	},
+	{
+		"id": 2203,
+		"key": "Go to Homepage",
+		"value": "Ir a la página de inicio",
+		"lang_id": 17
+	},
+	{
+		"id": 2204,
+		"key": "Whoops! Something went wrong.",
+		"value": "¡Ups! Algo salió mal.",
+		"lang_id": 17
+	},
+	{
+		"id": 2205,
+		"key": "Sign In",
+		"value": "Iniciar sesión",
+		"lang_id": 17
+	},
+	{
+		"id": 2206,
+		"key": "Enter your email and password to sign in",
+		"value": "Ingrese su correo electrónico y contraseña para iniciar sesión",
+		"lang_id": 17
+	},
+	{
+		"id": 2207,
+		"key": "Remember me",
+		"value": "Recuérdame",
+		"lang_id": 17
+	},
+	{
+		"id": 2208,
+		"key": "Welcome back!",
+		"value": "¡Bienvenido de nuevo! ",
+		"lang_id": 17
+	},
+	{
+		"id": 2209,
+		"key": "Login with your email address and password to keep connected with us.",
+		"value": "Inicie sesión con su dirección de correo electrónico y contraseña para mantenerse conectado con nosotros.",
+		"lang_id": 17
+	},
+	{
+		"id": 2210,
+		"key": "Send us an Email",
+		"value": "Envianos un email",
+		"lang_id": 17
+	},
+	{
+		"id": 2211,
+		"key": "Send Message",
+		"value": "Enviar mensaje",
+		"lang_id": 17
+	},
+	{
+		"id": 2212,
+		"key": "Describe your problem here!",
+		"value": "¡Describe tu problema aquí!",
+		"lang_id": 17
+	},
+	{
+		"id": 2213,
+		"key": "Download",
+		"value": "Descargar",
+		"lang_id": 17
+	},
+	{
+		"id": 2214,
+		"key": "Paste the URL here to start downloading...",
+		"value": "Pega la URL aquí para comenzar a descargar...",
+		"lang_id": 17
+	},
+	{
+		"id": 2215,
+		"key": "Accept all cookies",
+		"value": "Aceptar todas las cookies",
+		"lang_id": 17
+	},
+	{
+		"id": 2216,
+		"key": "Enter one URL per line in the text area below",
+		"value": "Ingrese una URL por línea en el área de texto a continuación",
+		"lang_id": 17
+	},
+	{
+		"id": 2217,
+		"key": "Submit",
+		"value": "Enviar",
+		"lang_id": 17
+	},
+	{
+		"id": 2218,
+		"key": "Follow us",
+		"value": "Síganos",
+		"lang_id": 17
+	},
+	{
+		"id": 2219,
+		"key": "Supported Resources",
+		"value": "Recursos apoyados",
+		"lang_id": 17
+	},
+	{
+		"id": 2220,
+		"key": "Enjoy the little things in life. For one day, you may look back and realize they were the big things. Many of life's failures are people who did not realize how close they were to success when they gave up.",
+		"value": "Disfruta de las pequeñas cosas de la vida. Por un día, puede mirar hacia atrás y darse cuenta de que eran las cosas más importantes. Muchos de los fracasos de la vida son personas que no se dieron cuenta de lo cerca que estaban del éxito cuando se rindieron.",
+		"lang_id": 17
+	},
+	{
+		"id": 2221,
+		"key": "Buy Now",
+		"value": "Comprar",
+		"lang_id": 17
+	},
+	{
+		"id": 2222,
+		"key": "Login",
+		"value": "Acceso",
+		"lang_id": 17
+	},
+	{
+		"id": 2223,
+		"key": "Contact",
+		"value": "Contacto",
+		"lang_id": 17
+	},
+	{
+		"id": 2224,
+		"key": "Report Links",
+		"value": "Informe",
+		"lang_id": 17
+	},
+	{
+		"id": 2225,
+		"key": "Single Article",
+		"value": "Publicaciones",
+		"lang_id": 17
+	},
+	{
+		"id": 2226,
+		"key": "Downloader",
+		"value": "Descargador",
+		"lang_id": 17
+	},
+	{
+		"id": 2227,
+		"key": "The Email or Password is Incorrect!",
+		"value": "L'email ou le mot de passe est incorrect!",
+		"lang_id": 18
+	},
+	{
+		"id": 2228,
+		"key": "Thank you for your message. It has been sent!",
+		"value": "Merci pour votre message. Il a été envoyé!",
+		"lang_id": 18
+	},
+	{
+		"id": 2229,
+		"key": "There was an error trying to send your message. Please try again later.",
+		"value": "Une erreur s'est produite lors de la tentative d'envoi de votre message. Veuillez réessayer plus tard.",
+		"lang_id": 18
+	},
+	{
+		"id": 2230,
+		"key": "The link you sent is not on the supported sites.",
+		"value": "Le lien que vous avez envoyé n'est pas sur les sites pris en charge.",
+		"lang_id": 18
+	},
+	{
+		"id": 2231,
+		"key": "Thanks for reporting issues to us. We will fix this issues as soon as possible.",
+		"value": "Merci de nous avoir signalé des problèmes. Nous allons résoudre ces problèmes dès que possible.",
+		"lang_id": 18
+	},
+	{
+		"id": 2232,
+		"key": "Data not found!",
+		"value": "Données introuvables!",
+		"lang_id": 18
+	},
+	{
+		"id": 2233,
+		"key": "Go to Homepage",
+		"value": "Aller à la page d'accueil",
+		"lang_id": 18
+	},
+	{
+		"id": 2234,
+		"key": "Whoops! Something went wrong.",
+		"value": "Oups ! Quelque chose s'est mal passé.",
+		"lang_id": 18
+	},
+	{
+		"id": 2235,
+		"key": "Sign In",
+		"value": "Connexion",
+		"lang_id": 18
+	},
+	{
+		"id": 2236,
+		"key": "Enter your email and password to sign in",
+		"value": "Entrez votre email et votre mot de passe pour vous connecter",
+		"lang_id": 18
+	},
+	{
+		"id": 2237,
+		"key": "Remember me",
+		"value": "Souviens-toi de moi",
+		"lang_id": 18
+	},
+	{
+		"id": 2238,
+		"key": "Welcome back!",
+		"value": "Content de te revoir!",
+		"lang_id": 18
+	},
+	{
+		"id": 2239,
+		"key": "Login with your email address and password to keep connected with us.",
+		"value": "Connectez-vous avec votre adresse e-mail et votre mot de passe pour rester connecté avec nous.",
+		"lang_id": 18
+	},
+	{
+		"id": 2240,
+		"key": "Send us an Email",
+		"value": "Envoyez-nous un e-mail",
+		"lang_id": 18
+	},
+	{
+		"id": 2241,
+		"key": "Send Message",
+		"value": "Envoyer le message",
+		"lang_id": 18
+	},
+	{
+		"id": 2242,
+		"key": "Describe your problem here!",
+		"value": "Décrivez votre problème ici !",
+		"lang_id": 18
+	},
+	{
+		"id": 2243,
+		"key": "Download",
+		"value": "Télécharger",
+		"lang_id": 18
+	},
+	{
+		"id": 2244,
+		"key": "Paste the URL here to start downloading...",
+		"value": "Collez l'URL ici pour commencer le téléchargement...",
+		"lang_id": 18
+	},
+	{
+		"id": 2245,
+		"key": "Accept all cookies",
+		"value": "Accepter tous les cookies",
+		"lang_id": 18
+	},
+	{
+		"id": 2246,
+		"key": "Enter one URL per line in the text area below",
+		"value": "Entrez une URL par ligne dans la zone de texte ci-dessous",
+		"lang_id": 18
+	},
+	{
+		"id": 2247,
+		"key": "Submit",
+		"value": "Soumettre",
+		"lang_id": 18
+	},
+	{
+		"id": 2248,
+		"key": "Follow us",
+		"value": "Suivez nous",
+		"lang_id": 18
+	},
+	{
+		"id": 2249,
+		"key": "Supported Resources",
+		"value": "Ressources prises en charge",
+		"lang_id": 18
+	},
+	{
+		"id": 2250,
+		"key": "Enjoy the little things in life. For one day, you may look back and realize they were the big things. Many of life's failures are people who did not realize how close they were to success when they gave up.",
+		"value": "Profitez des petites choses de la vie. Pendant un jour, vous pouvez regarder en arrière et vous rendre compte qu'ils étaient les grandes choses. Beaucoup d'échecs de la vie sont des gens qui n'ont pas réalisé à quel point ils étaient proches du succès lorsqu'ils ont abandonné.",
+		"lang_id": 18
+	},
+	{
+		"id": 2251,
+		"key": "Buy Now",
+		"value": "Acheter",
+		"lang_id": 18
+	},
+	{
+		"id": 2252,
+		"key": "Login",
+		"value": "Connexion",
+		"lang_id": 18
+	},
+	{
+		"id": 2253,
+		"key": "Contact",
+		"value": "Contacter",
+		"lang_id": 18
+	},
+	{
+		"id": 2254,
+		"key": "Report Links",
+		"value": "Signaler",
+		"lang_id": 18
+	},
+	{
+		"id": 2255,
+		"key": "Single Article",
+		"value": "Des postes",
+		"lang_id": 18
+	},
+	{
+		"id": 2256,
+		"key": "Downloader",
+		"value": "Téléchargeur",
+		"lang_id": 18
+	},
+	{
+		"id": 2257,
+		"key": "The Email or Password is Incorrect!",
+		"value": "L'e-mail o la password non sono corrette!",
+		"lang_id": 19
+	},
+	{
+		"id": 2258,
+		"key": "Thank you for your message. It has been sent!",
+		"value": "Grazie per il vostro messaggio. È stato inviato!",
+		"lang_id": 19
+	},
+	{
+		"id": 2259,
+		"key": "There was an error trying to send your message. Please try again later.",
+		"value": "Si è verificato un errore durante il tentativo di inviare il messaggio. Per favore riprova più tardi.",
+		"lang_id": 19
+	},
+	{
+		"id": 2260,
+		"key": "The link you sent is not on the supported sites.",
+		"value": "Il link che hai inviato non è sui siti supportati.",
+		"lang_id": 19
+	},
+	{
+		"id": 2261,
+		"key": "Thanks for reporting issues to us. We will fix this issues as soon as possible.",
+		"value": "Grazie per averci segnalato problemi. Risolveremo questo problema il prima possibile.",
+		"lang_id": 19
+	},
+	{
+		"id": 2262,
+		"key": "Data not found!",
+		"value": "Dati non trovati!",
+		"lang_id": 19
+	},
+	{
+		"id": 2263,
+		"key": "Go to Homepage",
+		"value": "Vai alla pagina principale",
+		"lang_id": 19
+	},
+	{
+		"id": 2264,
+		"key": "Whoops! Something went wrong.",
+		"value": "Ops! Qualcosa è andato storto.",
+		"lang_id": 19
+	},
+	{
+		"id": 2265,
+		"key": "Sign In",
+		"value": "Accedere",
+		"lang_id": 19
+	},
+	{
+		"id": 2266,
+		"key": "Enter your email and password to sign in",
+		"value": "Inserisci la tua email e password per accedere",
+		"lang_id": 19
+	},
+	{
+		"id": 2267,
+		"key": "Remember me",
+		"value": "Ricordati di me",
+		"lang_id": 19
+	},
+	{
+		"id": 2268,
+		"key": "Welcome back!",
+		"value": "Ben tornato!",
+		"lang_id": 19
+	},
+	{
+		"id": 2269,
+		"key": "Login with your email address and password to keep connected with us.",
+		"value": "Accedi con il tuo indirizzo e-mail e la password per rimanere in contatto con noi.",
+		"lang_id": 19
+	},
+	{
+		"id": 2270,
+		"key": "Send us an Email",
+		"value": "Mandaci un email",
+		"lang_id": 19
+	},
+	{
+		"id": 2271,
+		"key": "Send Message",
+		"value": "Invia messaggio",
+		"lang_id": 19
+	},
+	{
+		"id": 2272,
+		"key": "Describe your problem here!",
+		"value": "Descrivi qui il tuo problema!",
+		"lang_id": 19
+	},
+	{
+		"id": 2273,
+		"key": "Download",
+		"value": "Scarica",
+		"lang_id": 19
+	},
+	{
+		"id": 2274,
+		"key": "Paste the URL here to start downloading...",
+		"value": "Incolla qui l'URL per avviare il download...",
+		"lang_id": 19
+	},
+	{
+		"id": 2275,
+		"key": "Accept all cookies",
+		"value": "Accetta tutti i cookie",
+		"lang_id": 19
+	},
+	{
+		"id": 2276,
+		"key": "Enter one URL per line in the text area below",
+		"value": "Inserisci un URL per riga nell'area di testo sottostante",
+		"lang_id": 19
+	},
+	{
+		"id": 2277,
+		"key": "Submit",
+		"value": "Invia",
+		"lang_id": 19
+	},
+	{
+		"id": 2278,
+		"key": "Follow us",
+		"value": "Seguici",
+		"lang_id": 19
+	},
+	{
+		"id": 2279,
+		"key": "Supported Resources",
+		"value": "Risorse supportate",
+		"lang_id": 19
+	},
+	{
+		"id": 2280,
+		"key": "Enjoy the little things in life. For one day, you may look back and realize they were the big things. Many of life's failures are people who did not realize how close they were to success when they gave up.",
+		"value": "Goditi le piccole cose nella vita. Per un giorno, potresti guardare indietro e realizzare che erano le grandi cose. Molti dei fallimenti della vita sono persone che non si sono rese conto di quanto fossero vicine al successo quando si sono arrese.",
+		"lang_id": 19
+	},
+	{
+		"id": 2281,
+		"key": "Buy Now",
+		"value": "Acquista ora",
+		"lang_id": 19
+	},
+	{
+		"id": 2282,
+		"key": "Login",
+		"value": "Accedere",
+		"lang_id": 19
+	},
+	{
+		"id": 2283,
+		"key": "Contact",
+		"value": "Contatto",
+		"lang_id": 19
+	},
+	{
+		"id": 2284,
+		"key": "Report Links",
+		"value": "Rapporto",
+		"lang_id": 19
+	},
+	{
+		"id": 2285,
+		"key": "Single Article",
+		"value": "Post",
+		"lang_id": 19
+	},
+	{
+		"id": 2286,
+		"key": "Downloader",
+		"value": "Downloader",
+		"lang_id": 19
+	},
+	{
+		"id": 2287,
+		"key": "The Email or Password is Incorrect!",
+		"value": "O e-mail ou senha estão incorretos!",
+		"lang_id": 20
+	},
+	{
+		"id": 2288,
+		"key": "Thank you for your message. It has been sent!",
+		"value": "Obrigado pela sua mensagem. Já foi enviada!",
+		"lang_id": 20
+	},
+	{
+		"id": 2289,
+		"key": "There was an error trying to send your message. Please try again later.",
+		"value": "Ocorreu um erro ao tentar enviar sua mensagem. Por favor, tente novamente mais tarde.",
+		"lang_id": 20
+	},
+	{
+		"id": 2290,
+		"key": "The link you sent is not on the supported sites.",
+		"value": "O link que você enviou não está nos sites suportados.",
+		"lang_id": 20
+	},
+	{
+		"id": 2291,
+		"key": "Thanks for reporting issues to us. We will fix this issues as soon as possible.",
+		"value": "Obrigado por relatar problemas para nós. Vamos corrigir esses problemas o mais rápido possível.",
+		"lang_id": 20
+	},
+	{
+		"id": 2292,
+		"key": "Data not found!",
+		"value": "Dados não encontrados!",
+		"lang_id": 20
+	},
+	{
+		"id": 2293,
+		"key": "Go to Homepage",
+		"value": "Vá para a página inicial",
+		"lang_id": 20
+	},
+	{
+		"id": 2294,
+		"key": "Whoops! Something went wrong.",
+		"value": "Opa! Algo deu errado.",
+		"lang_id": 20
+	},
+	{
+		"id": 2295,
+		"key": "Sign In",
+		"value": "Conecte-se",
+		"lang_id": 20
+	},
+	{
+		"id": 2296,
+		"key": "Enter your email and password to sign in",
+		"value": "Digite seu e-mail e senha para fazer login",
+		"lang_id": 20
+	},
+	{
+		"id": 2297,
+		"key": "Remember me",
+		"value": "Lembre de mim",
+		"lang_id": 20
+	},
+	{
+		"id": 2298,
+		"key": "Welcome back!",
+		"value": "Bem vindo de volta!",
+		"lang_id": 20
+	},
+	{
+		"id": 2299,
+		"key": "Login with your email address and password to keep connected with us.",
+		"value": "Faça login com seu endereço de e-mail e senha para se manter conectado.",
+		"lang_id": 20
+	},
+	{
+		"id": 2300,
+		"key": "Send us an Email",
+		"value": "Envie-nos um e-mail",
+		"lang_id": 20
+	},
+	{
+		"id": 2301,
+		"key": "Send Message",
+		"value": "Enviar mensagem",
+		"lang_id": 20
+	},
+	{
+		"id": 2302,
+		"key": "Describe your problem here!",
+		"value": "Descreva o seu problema aqui!",
+		"lang_id": 20
+	},
+	{
+		"id": 2303,
+		"key": "Download",
+		"value": "Baixar",
+		"lang_id": 20
+	},
+	{
+		"id": 2304,
+		"key": "Paste the URL here to start downloading...",
+		"value": "Cole o URL aqui para iniciar o download...",
+		"lang_id": 20
+	},
+	{
+		"id": 2305,
+		"key": "Accept all cookies",
+		"value": "Aceita todos os cookies",
+		"lang_id": 20
+	},
+	{
+		"id": 2306,
+		"key": "Enter one URL per line in the text area below",
+		"value": "Insira um URL por linha na área de texto abaixo",
+		"lang_id": 20
+	},
+	{
+		"id": 2307,
+		"key": "Submit",
+		"value": "Enviar",
+		"lang_id": 20
+	},
+	{
+		"id": 2308,
+		"key": "Follow us",
+		"value": "Siga-nos",
+		"lang_id": 20
+	},
+	{
+		"id": 2309,
+		"key": "Supported Resources",
+		"value": "Recursos Suportados",
+		"lang_id": 20
+	},
+	{
+		"id": 2310,
+		"key": "Enjoy the little things in life. For one day, you may look back and realize they were the big things. Many of life's failures are people who did not realize how close they were to success when they gave up.",
+		"value": "Curta as pequenas coisas da vida. Por um dia, você pode olhar para trás e perceber que eles eram as grandes coisas. Muitos dos fracassos da vida são pessoas que não perceberam o quão perto estavam do sucesso quando desistiram.",
+		"lang_id": 20
+	},
+	{
+		"id": 2311,
+		"key": "Buy Now",
+		"value": "Compre Agora",
+		"lang_id": 20
+	},
+	{
+		"id": 2312,
+		"key": "Login",
+		"value": "Conecte-se",
+		"lang_id": 20
+	},
+	{
+		"id": 2313,
+		"key": "Contact",
+		"value": "Contato",
+		"lang_id": 20
+	},
+	{
+		"id": 2314,
+		"key": "Report Links",
+		"value": "Relatório",
+		"lang_id": 20
+	},
+	{
+		"id": 2315,
+		"key": "Single Article",
+		"value": "Postagens",
+		"lang_id": 20
+	},
+	{
+		"id": 2316,
+		"key": "Downloader",
+		"value": "Downloader",
+		"lang_id": 20
+	},
+	{
+		"id": 2317,
+		"key": "The Email or Password is Incorrect!",
+		"value": "Электронная почта или пароль неверны!",
+		"lang_id": 21
+	},
+	{
+		"id": 2318,
+		"key": "Thank you for your message. It has been sent!",
+		"value": "Спасибо за ваше сообщение. Отправлено!",
+		"lang_id": 21
+	},
+	{
+		"id": 2319,
+		"key": "There was an error trying to send your message. Please try again later.",
+		"value": "При отправке вашего сообщения произошла ошибка. Пожалуйста, повторите попытку позже.",
+		"lang_id": 21
+	},
+	{
+		"id": 2320,
+		"key": "The link you sent is not on the supported sites.",
+		"value": "Отправленной вами ссылки нет на поддерживаемых сайтах.",
+		"lang_id": 21
+	},
+	{
+		"id": 2321,
+		"key": "Thanks for reporting issues to us. We will fix this issues as soon as possible.",
+		"value": "Спасибо, что сообщили нам о проблемах. Мы исправим эту проблему как можно скорее.",
+		"lang_id": 21
+	},
+	{
+		"id": 2322,
+		"key": "Data not found!",
+		"value": "Данные не найдены!",
+		"lang_id": 21
+	},
+	{
+		"id": 2323,
+		"key": "Go to Homepage",
+		"value": "Перейдите на домашнюю страницу",
+		"lang_id": 21
+	},
+	{
+		"id": 2324,
+		"key": "Whoops! Something went wrong.",
+		"value": "Ой! Что-то пошло не так.",
+		"lang_id": 21
+	},
+	{
+		"id": 2325,
+		"key": "Sign In",
+		"value": "Авторизоваться",
+		"lang_id": 21
+	},
+	{
+		"id": 2326,
+		"key": "Enter your email and password to sign in",
+		"value": "Введите свой адрес электронной почты и пароль для входа",
+		"lang_id": 21
+	},
+	{
+		"id": 2327,
+		"key": "Remember me",
+		"value": "Запомни меня",
+		"lang_id": 21
+	},
+	{
+		"id": 2328,
+		"key": "Welcome back!",
+		"value": "Добро пожаловать обратно!",
+		"lang_id": 21
+	},
+	{
+		"id": 2329,
+		"key": "Login with your email address and password to keep connected with us.",
+		"value": "Войдите в систему, указав свой адрес электронной почты и пароль, чтобы оставаться на связи с нами.",
+		"lang_id": 21
+	},
+	{
+		"id": 2330,
+		"key": "Send us an Email",
+		"value": "Отправить нам письмо",
+		"lang_id": 21
+	},
+	{
+		"id": 2331,
+		"key": "Send Message",
+		"value": "Отправить сообщение",
+		"lang_id": 21
+	},
+	{
+		"id": 2332,
+		"key": "Describe your problem here!",
+		"value": "Опишите здесь вашу проблему!",
+		"lang_id": 21
+	},
+	{
+		"id": 2333,
+		"key": "Download",
+		"value": "Скачать",
+		"lang_id": 21
+	},
+	{
+		"id": 2334,
+		"key": "Paste the URL here to start downloading...",
+		"value": "Вставьте здесь URL-адрес, чтобы начать загрузку...",
+		"lang_id": 21
+	},
+	{
+		"id": 2335,
+		"key": "Accept all cookies",
+		"value": "Принимать все файлы cookie",
+		"lang_id": 21
+	},
+	{
+		"id": 2336,
+		"key": "Enter one URL per line in the text area below",
+		"value": "Введите по одному URL-адресу в каждой строке в текстовой области ниже",
+		"lang_id": 21
+	},
+	{
+		"id": 2337,
+		"key": "Submit",
+		"value": "Представлять на рассмотрение",
+		"lang_id": 21
+	},
+	{
+		"id": 2338,
+		"key": "Follow us",
+		"value": "Подписывайтесь на нас",
+		"lang_id": 21
+	},
+	{
+		"id": 2339,
+		"key": "Supported Resources",
+		"value": "Поддерживаемые ресурсы",
+		"lang_id": 21
+	},
+	{
+		"id": 2340,
+		"key": "Enjoy the little things in life. For one day, you may look back and realize they were the big things. Many of life's failures are people who did not realize how close they were to success when they gave up.",
+		"value": "Наслаждайтесь мелочами жизни. На один день вы можете оглянуться назад и понять, что это были большие дела. Многие из жизненных неудач - это люди, которые не осознавали, насколько были близки к успеху, когда сдались.",
+		"lang_id": 21
+	},
+	{
+		"id": 2341,
+		"key": "Buy Now",
+		"value": "купить сейчас",
+		"lang_id": 21
+	},
+	{
+		"id": 2342,
+		"key": "Login",
+		"value": "Авторизоваться",
+		"lang_id": 21
+	},
+	{
+		"id": 2343,
+		"key": "Contact",
+		"value": "Контакт",
+		"lang_id": 21
+	},
+	{
+		"id": 2344,
+		"key": "Report Links",
+		"value": "Отчет",
+		"lang_id": 21
+	},
+	{
+		"id": 2345,
+		"key": "Single Article",
+		"value": "Сообщения",
+		"lang_id": 21
+	},
+	{
+		"id": 2346,
+		"key": "Downloader",
+		"value": "Загрузчик",
+		"lang_id": 21
+	},
+	{
+		"id": 2347,
+		"key": "We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it.",
+		"value": "We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it.",
+		"lang_id": 3
+	},
+	{
+		"id": 2348,
+		"key": "We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it.",
+		"value": "Chúng tôi sử dụng cookie để đảm bảo rằng chúng tôi mang đến cho bạn trải nghiệm tốt nhất trên trang web của chúng tôi. Nếu bạn tiếp tục sử dụng trang web này, chúng tôi sẽ cho rằng bạn hài lòng với nó.",
+		"lang_id": 11
+	},
+	{
+		"id": 2349,
+		"key": "We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it.",
+		"value": "Wir verwenden Cookies, um sicherzustellen, dass wir Ihnen das beste Erlebnis auf unserer Website bieten. Wenn Sie diese Seite weiterhin nutzen, gehen wir davon aus, dass Sie damit zufrieden sind.",
+		"lang_id": 16
+	},
+	{
+		"id": 2350,
+		"key": "We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it.",
+		"value": "Usamos cookies para asegurarnos de brindarle la mejor experiencia en nuestro sitio web. Si continúa utilizando este sitio, asumiremos que está satisfecho con él.",
+		"lang_id": 17
+	},
+	{
+		"id": 2351,
+		"key": "We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it.",
+		"value": "Nous utilisons des cookies pour nous assurer que nous vous offrons la meilleure expérience sur notre site Web. Si vous continuez à utiliser ce site, nous supposerons que vous en êtes satisfait.",
+		"lang_id": 18
+	},
+	{
+		"id": 2352,
+		"key": "We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it.",
+		"value": "Utilizziamo i cookie per assicurarci di offrirti la migliore esperienza sul nostro sito web. Se continui ad utilizzare questo sito noi assumiamo che tu ne sia felice.",
+		"lang_id": 19
+	},
+	{
+		"id": 2353,
+		"key": "We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it.",
+		"value": "Usamos cookies para garantir que oferecemos a melhor experiência em nosso site. Se continuar a usar este site, assumiremos que está satisfeito com ele.",
+		"lang_id": 20
+	},
+	{
+		"id": 2354,
+		"key": "We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it.",
+		"value": "Мы используем файлы cookie, чтобы обеспечить максимальное удобство использования нашего веб-сайта. Если вы продолжите использовать этот сайт, мы будем считать, что он вам нравится.",
+		"lang_id": 21
+	},
+	{
+		"id": 2355,
+		"key": "Blog",
+		"value": "Blog",
+		"lang_id": 3
+	},
+	{
+		"id": 2356,
+		"key": "Our Blog",
+		"value": "Our Blog",
+		"lang_id": 3
+	},
+	{
+		"id": 2357,
+		"key": "Stay up to date with the latest news",
+		"value": "Stay up to date with the latest news",
+		"lang_id": 3
+	},
+	{
+		"id": 2358,
+		"key": "Read More",
+		"value": "Read More",
+		"lang_id": 3
+	},
+	{
+		"id": 2359,
+		"key": "Read More",
+		"value": "Đọc thêm",
+		"lang_id": 11
+	},
+	{
+		"id": 2360,
+		"key": "Stay up to date with the latest news",
+		"value": "Luôn cập nhật những tin tức mới nhất",
+		"lang_id": 11
+	},
+	{
+		"id": 2361,
+		"key": "Our Blog",
+		"value": "Blog của chúng tôi",
+		"lang_id": 11
+	},
+	{
+		"id": 2362,
+		"key": "Blog",
+		"value": "Blog",
+		"lang_id": 11
+	},
+	{
+		"id": 2363,
+		"key": "Read More",
+		"value": "Weiterlesen",
+		"lang_id": 16
+	},
+	{
+		"id": 2364,
+		"key": "Stay up to date with the latest news",
+		"value": "Bleiben Sie auf dem Laufenden mit den neuesten Nachrichten",
+		"lang_id": 16
+	},
+	{
+		"id": 2365,
+		"key": "Our Blog",
+		"value": "Unser Blog",
+		"lang_id": 16
+	},
+	{
+		"id": 2366,
+		"key": "Blog",
+		"value": "Blog",
+		"lang_id": 16
+	},
+	{
+		"id": 2367,
+		"key": "Read More",
+		"value": "Lee mas",
+		"lang_id": 17
+	},
+	{
+		"id": 2368,
+		"key": "Stay up to date with the latest news",
+		"value": "Manténgase al día con las últimas noticias",
+		"lang_id": 17
+	},
+	{
+		"id": 2369,
+		"key": "Our Blog",
+		"value": "Nuestro blog",
+		"lang_id": 17
+	},
+	{
+		"id": 2370,
+		"key": "Blog",
+		"value": "Blog",
+		"lang_id": 17
+	},
+	{
+		"id": 2371,
+		"key": "Read More",
+		"value": "Lire la suite",
+		"lang_id": 18
+	},
+	{
+		"id": 2372,
+		"key": "Stay up to date with the latest news",
+		"value": "Restez à jour avec les dernières nouvelles",
+		"lang_id": 18
+	},
+	{
+		"id": 2373,
+		"key": "Our Blog",
+		"value": "Notre blog",
+		"lang_id": 18
+	},
+	{
+		"id": 2374,
+		"key": "Blog",
+		"value": "Blog",
+		"lang_id": 18
+	},
+	{
+		"id": 2375,
+		"key": "Read More",
+		"value": "Leggi di più",
+		"lang_id": 19
+	},
+	{
+		"id": 2376,
+		"key": "Stay up to date with the latest news",
+		"value": "Rimani aggiornato con le ultime novità",
+		"lang_id": 19
+	},
+	{
+		"id": 2377,
+		"key": "Our Blog",
+		"value": "Il nostro blog",
+		"lang_id": 19
+	},
+	{
+		"id": 2378,
+		"key": "Blog",
+		"value": "Blog",
+		"lang_id": 19
+	},
+	{
+		"id": 2379,
+		"key": "Read More",
+		"value": "Consulte Mais Informação",
+		"lang_id": 20
+	},
+	{
+		"id": 2380,
+		"key": "Stay up to date with the latest news",
+		"value": "Fique por dentro das últimas notícias",
+		"lang_id": 20
+	},
+	{
+		"id": 2381,
+		"key": "Our Blog",
+		"value": "Nosso blog",
+		"lang_id": 20
+	},
+	{
+		"id": 2382,
+		"key": "Blog",
+		"value": "Blog",
+		"lang_id": 20
+	},
+	{
+		"id": 2383,
+		"key": "Read More",
+		"value": "Читать далее",
+		"lang_id": 21
+	},
+	{
+		"id": 2384,
+		"key": "Stay up to date with the latest news",
+		"value": "Будьте в курсе последних новостей",
+		"lang_id": 21
+	},
+	{
+		"id": 2385,
+		"key": "Our Blog",
+		"value": "Наш блог",
+		"lang_id": 21
+	},
+	{
+		"id": 2386,
+		"key": "Blog",
+		"value": "Блог",
+		"lang_id": 21
+	},
+	{
+		"id": 2387,
+		"key": "Get all the latest news on updates, support issues and tutorials.",
+		"value": "Get all the latest news on updates, support issues and tutorials.",
+		"lang_id": 3
+	},
+	{
+		"id": 2388,
+		"key": "Get all the latest news on updates, support issues and tutorials.",
+		"value": "Nhận tất cả các tin tức mới nhất về các bản cập nhật, các vấn đề hỗ trợ và hướng dẫn.",
+		"lang_id": 11
+	},
+	{
+		"id": 2389,
+		"key": "Get all the latest news on updates, support issues and tutorials.",
+		"value": "Erhalten Sie die neuesten Nachrichten zu Updates, Supportproblemen und Tutorials.",
+		"lang_id": 16
+	},
+	{
+		"id": 2390,
+		"key": "Get all the latest news on updates, support issues and tutorials.",
+		"value": "Obtenga las últimas noticias sobre actualizaciones, problemas de soporte y tutoriales.",
+		"lang_id": 17
+	},
+	{
+		"id": 2391,
+		"key": "Get all the latest news on updates, support issues and tutorials.",
+		"value": "Recevez toutes les dernières nouvelles sur les mises à jour, les problèmes de support et les didacticiels.",
+		"lang_id": 18
+	},
+	{
+		"id": 2392,
+		"key": "Get all the latest news on updates, support issues and tutorials.",
+		"value": "Ricevi tutte le ultime notizie su aggiornamenti, problemi di supporto e tutorial.",
+		"lang_id": 19
+	},
+	{
+		"id": 2393,
+		"key": "Get all the latest news on updates, support issues and tutorials.",
+		"value": "Receba as últimas notícias sobre atualizações, problemas de suporte e tutoriais.",
+		"lang_id": 20
+	},
+	{
+		"id": 2394,
+		"key": "Get all the latest news on updates, support issues and tutorials.",
+		"value": "Получайте все последние новости об обновлениях, проблемах поддержки и обучающих материалах.",
+		"lang_id": 21
+	},
+	{
+		"id": 2395,
+		"key": "Coming Soon...",
+		"value": "Coming Soon...",
+		"lang_id": 3
+	},
+	{
+		"id": 2396,
+		"key": "Site is currently under maintenance. We are working hard to give you the best experience and will be back shortly.",
+		"value": "Site is currently under maintenance. We are working hard to give you the best experience and will be back shortly.",
+		"lang_id": 3
+	},
+	{
+		"id": 2397,
+		"key": "Thank you for your patience!",
+		"value": "Thank you for your patience!",
+		"lang_id": 3
+	},
+	{
+		"id": 2398,
+		"key": "Coming Soon...",
+		"value": "Sẽ sớm trở lại...",
+		"lang_id": 11
+	},
+	{
+		"id": 2399,
+		"key": "Site is currently under maintenance. We are working hard to give you the best experience and will be back shortly.",
+		"value": "Trang web hiện đang được bảo trì. Chúng tôi đang làm việc chăm chỉ để mang đến cho bạn trải nghiệm tốt nhất và sẽ sớm trở lại.",
+		"lang_id": 11
+	},
+	{
+		"id": 2400,
+		"key": "Thank you for your patience!",
+		"value": "Cảm ơn vì sự kiên nhẫn của bạn!",
+		"lang_id": 11
+	},
+	{
+		"id": 2401,
+		"key": "Coming Soon...",
+		"value": "Kommt bald...",
+		"lang_id": 16
+	},
+	{
+		"id": 2402,
+		"key": "Site is currently under maintenance. We are working hard to give you the best experience and will be back shortly.",
+		"value": "Die Website wird derzeit gewartet. Wir arbeiten hart daran, Ihnen das beste Erlebnis zu bieten und werden in Kürze zurück sein.",
+		"lang_id": 16
+	},
+	{
+		"id": 2403,
+		"key": "Thank you for your patience!",
+		"value": "Vielen Dank für Ihre Geduld!",
+		"lang_id": 16
+	},
+	{
+		"id": 2404,
+		"key": "Coming Soon...",
+		"value": "Próximamente, en breve, pronto...",
+		"lang_id": 17
+	},
+	{
+		"id": 2405,
+		"key": "Site is currently under maintenance. We are working hard to give you the best experience and will be back shortly.",
+		"value": "El sitio está actualmente en mantenimiento. Estamos trabajando arduamente para brindarle la mejor experiencia y volveremos en breve.",
+		"lang_id": 17
+	},
+	{
+		"id": 2406,
+		"key": "Thank you for your patience!",
+		"value": "¡Gracias por su paciencia!",
+		"lang_id": 17
+	},
+	{
+		"id": 2407,
+		"key": "Coming Soon...",
+		"value": "Bientôt disponible...",
+		"lang_id": 18
+	},
+	{
+		"id": 2408,
+		"key": "Site is currently under maintenance. We are working hard to give you the best experience and will be back shortly.",
+		"value": "Le site est actuellement en maintenance. Nous travaillons dur pour vous offrir la meilleure expérience et nous reviendrons sous peu.",
+		"lang_id": 18
+	},
+	{
+		"id": 2409,
+		"key": "Thank you for your patience!",
+		"value": "Merci pour votre patience!",
+		"lang_id": 18
+	},
+	{
+		"id": 2410,
+		"key": "Coming Soon...",
+		"value": "Prossimamente...",
+		"lang_id": 19
+	},
+	{
+		"id": 2411,
+		"key": "Site is currently under maintenance. We are working hard to give you the best experience and will be back shortly.",
+		"value": "Il sito è attualmente in manutenzione. Stiamo lavorando duramente per offrirti la migliore esperienza e torneremo a breve.",
+		"lang_id": 19
+	},
+	{
+		"id": 2412,
+		"key": "Thank you for your patience!",
+		"value": "Grazie per la vostra pazienza!",
+		"lang_id": 19
+	},
+	{
+		"id": 2413,
+		"key": "Coming Soon...",
+		"value": "Em breve...",
+		"lang_id": 20
+	},
+	{
+		"id": 2414,
+		"key": "Site is currently under maintenance. We are working hard to give you the best experience and will be back shortly.",
+		"value": "Site atualmente em manutenção. Estamos trabalhando muito para oferecer a você a melhor experiência e estaremos de volta em breve.",
+		"lang_id": 20
+	},
+	{
+		"id": 2415,
+		"key": "Thank you for your patience!",
+		"value": "Obrigado pela sua paciência!",
+		"lang_id": 20
+	},
+	{
+		"id": 2416,
+		"key": "Coming Soon...",
+		"value": "Скоро будет...",
+		"lang_id": 21
+	},
+	{
+		"id": 2417,
+		"key": "Site is currently under maintenance. We are working hard to give you the best experience and will be back shortly.",
+		"value": "В настоящее время сайт находится на обслуживании. Мы прилагаем все усилия, чтобы предоставить вам лучший опыт, и скоро вернемся.",
+		"lang_id": 21
+	},
+	{
+		"id": 2418,
+		"key": "Thank you for your patience!",
+		"value": "Спасибо за ваше терпение!",
+		"lang_id": 21
+	}
+]
